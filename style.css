@@ -1,0 +1,45 @@
+body {
+    font-family:Open Sans, Helvetica, sans-serif;
+    font-size:medium;
+    background-color:lightyellow;
+    margin:20px;
+}
+
+#header img {
+    width:250px;
+    height:250px;
+}
+
+nav {
+    align-content: center;
+}
+
+.avatar {
+    height: 300px;
+    border-radius: 50px;
+}
+
+.social {
+    height: 30px;
+    border-radius: 7px;
+}
+
+.git {
+    height: 30px;
+    border-radius: 50%;
+}
+
+
+
+#Contacto {
+    text-align: center;
+}
+
+#Contacto ul {
+    padding: 0;
+}
+
+#Contacto li {
+    list-style-type: none;
+    display: inline-block;
+}
